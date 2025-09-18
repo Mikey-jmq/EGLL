@@ -1,0 +1,8 @@
+_pycache_/
+*.pyc
+*.npy
+*.h5
+weightsGF2/
+weightsWV2/
+PanNet_results/
+.idea/
